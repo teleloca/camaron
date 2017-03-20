@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.camaron" name="Camaron" version="0.0.1" provider-name="Curri Microsystems">
+    <extension point="xbmc.addon.repository" name="Curri's Repository">
+        <info compressed="true">https://raw.github.com/teleloca/camaron/master/addons.xml</info>
+        <checksum>https://raw.github.com/teleloca/camaron/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.github.com/teleloca/camaron/master</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Oficial repository from teleloca</summary>
+        <description lang="en">A kodi repository created to give good support for the curri's kodi build</description>
+        <summary lang="es">Repositorio oficial de Teleloca</summary>
+        <description lang="es">Repositorio creado para dar soporte al sistema curri</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <language></language>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum></forum>
+        <website></website>
+        <source>https://raw.github.com/teleloca/camaron/addon.xml</source>
+        <email>teleloca email</email>
+    </extension>
+</addon>
