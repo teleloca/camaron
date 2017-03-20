@@ -5,6 +5,7 @@
 	provider-name="Curri Micorsystems">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.teleloca.support.ytb" version="5.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
